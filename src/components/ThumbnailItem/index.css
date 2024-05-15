@@ -1,0 +1,16 @@
+/* Write your code here. */
+li {
+  margin-right: 10px;
+}
+.li-cont {
+  margin-right: 10px;
+  opacity: 0.5;
+}
+.Active-img {
+  margin-right: 10px;
+  opacity: 0.5;
+}
+button {
+  background: transparent;
+  border: none;
+}
